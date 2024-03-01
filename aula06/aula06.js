@@ -23,6 +23,6 @@ console.log(contador);
 
 // NaN - Not a number parseInt (inteiro), parseFloat (decimais), number
 const num4 = 10;
-const num5 = Number('Luiz');
+const num5 = Number('Nathan');
 console.log (num1 + num2); 1
 console.log(typeof num2);
