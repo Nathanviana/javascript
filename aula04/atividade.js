@@ -7,10 +7,10 @@ const segundoNome = 'Miranda';
 const idade = 30;
 const peso = 84;
 const altura = 1.80;
-let imcCalculo;
+let calculoMassa;
 let nascimento;
 
-Calculomassa = peso / (altura * altura);
+calculomassa = peso / (altura * altura);
 nascimento = 2024 - idade;
 
 console.log(`${nome} ${segundoNome} tem ${idade} anos, pesa ${peso} kg `);
