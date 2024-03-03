@@ -12,4 +12,11 @@ let num2 = prompt('Digite outro numero');
 num1 = Number(num1);
 num2 = Number(num2);
 let somaDosNumeros = num1+num2;
-alert(`O resultado da soma dos valores é: ${somaDosNumeros}`);
+alert(`O resultado da soma dos valores é: ${somaDosNumeros}`); // OBS: Não necessáriamente precisa ser digitado dessa forma o alert.
+
+/* 
+Podendo tambem ser dessa forma: 
+ alert(`O resultado da soma dos valores é: ${num1 + num2}`); 
+Dessa forma removendo a linha de codigo 14 sendo mais direto.
+*/
+
