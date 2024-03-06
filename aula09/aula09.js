@@ -7,12 +7,12 @@ sempre começando pelo índice ZERO
 
 /* Formas de ver qual é o elemento que está em um determinado índice:
 1° usando [x]
-2° charAt(x)
+2° .charAt(x)
 SEMPRE buscando dentro do range(alcance ou quantidade de índices presentes na string)
 */
 let umaString = "olá mundo";
 
-console.log(umaString[6], "caracter do índice 6"); // no índice 4 se encontra a letra (m)
+console.log(umaString[6], "caracter do índice 6"); // no índice 6 se encontra a letra (n)
 
 /* Forma de saber em qual índice começa uma palavra:     (indexOf)
 console.log(umaString.indexOf('mundo'))
