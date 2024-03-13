@@ -25,8 +25,8 @@ function criarUser(nome, sobrenome, idade) {
         idade: idade
     };
 }
-const pessoa6 = criarUser("Pedro", "Silva", 18);
-console.log(pessoa6.nome);
+const pessoaN = criarUser("Pedro", "Silva", 18);
+console.log(pessoaN.nome);
 
 // Forma contraída da FACTORY:
 function criaPessoa(nome, sobrenome, idade) {
@@ -38,6 +38,7 @@ const pessoa2 = criaPessoa('Dival', 'Lucas', 19);
 const pessoa3 = criaPessoa('Noser', 'Feliz', 19);
 const pessoa4 = criaPessoa('Rodrigo', 'Pardal', 20);
 const pessoa5 = criaPessoa('slim', 'shadi', 30);
+const pessoa6 = criaPessoa('Maria', 'Emanuelle', 8);
 
 console.log(pessoa1.nome, pessoa2.sobrenome, pessoa5.idade); 
 
