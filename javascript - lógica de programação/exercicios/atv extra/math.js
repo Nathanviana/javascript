@@ -8,11 +8,11 @@
 */
 
 // pow
-const pot = Math.pow(2,2);
+const pot = Math.pow(2, 2);
 console.log(pot);
 
 // sqrt
-const raiz = Math.sqrt(25,2);
+const raiz = Math.sqrt(25, 2);
 console.log(raiz);
 
 // ceil
