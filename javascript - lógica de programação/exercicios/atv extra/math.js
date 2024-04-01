@@ -34,4 +34,4 @@ console.log(randomNum2);
 const randomNum3 = Math.random() * (max - min) + min;
 
 // extra
-console.log(Number.isInteger(2024));
+console.log(Number.isInteger(2024));1
