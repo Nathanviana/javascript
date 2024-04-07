@@ -1,2 +1,2 @@
 # javascript
- Estudos da linguagem de programação JavaScript
+ Estudos da linguagem de programação JavaScript.
