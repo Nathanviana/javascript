@@ -1,3 +1,12 @@
+// try, catch, throw
+
+try {
+    // E executado quando não ha erros 
+} catch (e) {
+    // é executada quando ha erros 
+}
+
+
 function soma(x, y) {
     if (typeof x !== 'number' || typeof y !== 'number') {
         throw error('Deu error');
