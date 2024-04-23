@@ -8,7 +8,7 @@ Este repositório foi criado para documentar meu progresso no aprendizado de Jav
 
 ## Como Contribuir
 
-Por ser minhas anotações e observações pode haver erros ou enganos, se você encontrar algum erro nas anotações ou tiver sugestões para melhorar este repositório, sinta-se à vontade para abrir uma issue!
+Por ser minhas anotações e observações pode haver erros ou enganos, se você encontrar algum erro nas anotações ou tiver sugestões para melhorar este repositório, sinta-se à vontade para abrir uma issue!!
 
 ## Conteúdo
 
